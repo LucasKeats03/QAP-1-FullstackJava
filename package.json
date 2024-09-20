@@ -1,0 +1,15 @@
+{
+    "name": "password-generator-cli",
+    "version": "1.0.0",
+    "description": "A CLI tool to generate random passwords",
+    "main": "index.js",
+    "bin": {
+      "password-gen": "./index.js"
+    },
+    "author": "Lucas Keats",
+    "license": "MIT",
+    "dependencies": {
+      "yargs": "^17.0.1"
+    }
+  }
+  
